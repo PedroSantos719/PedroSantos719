@@ -8,8 +8,6 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSantos719&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos719&layout=compact)
-
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
